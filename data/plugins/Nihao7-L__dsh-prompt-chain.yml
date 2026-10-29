@@ -2,6 +2,6 @@ url: https://github.com/Nihao7-L/dsh-prompt-chain
 name: Nihao7-L/dsh-prompt-chain
 category: ui
 description:
-  en: "One-click prompt enhancement in the composer: continue for up to 5 rounds when the draft is thin, regenerate when the result misses, keep every round as an archived version you can roll back to, sync the result straight back to the composer with a line-by-line diff, and configure the panel visibility, prompt button icon or button position yourself."
-  zh: "一键增强提示词：嫌短就继续生成、最多 5 轮，不满意就重新生成；每轮自动存档可回退；结果同步回输入框，差异逐行对比；显示界面、提示词按钮图标与按键位置自己定制。"
+  en: "One-click prompt enhancement in the composer: continue for up to 5 rounds when the draft is thin, or regenerate, from the original draft or from the last prompt, when the result misses; keep every round as an archived version you can roll back to, sync the result straight back to the composer with a line-by-line diff, and configure the prompt button icon, button position, or panel background yourself."
+  zh: "一键增强提示词：嫌短就继续生成、最多 5 轮，不满意可重新生成（基于最初版本或上一次内容）；每轮自动存档可回退；结果同步回输入框，差异逐行对比；提示词按钮图标、按键位置与面板背景可自定。"
 tarball: https://github.com/Nihao7-L/dsh-prompt-chain/releases/latest/download/dsh-prompt-chain.tgz
